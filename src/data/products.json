@@ -1,0 +1,184 @@
+[
+    {
+      "id": 1,
+      "category": "Dairy",
+      "name": "Fresh Cow Milk",
+      "description": "Creamy and wholesome fresh cow milk, directly sourced from the farm.",
+      "price": 2.99,
+      "weight": "1L",
+      "image": "/images/milk3.png"
+    },
+    {
+      "id": 2,
+      "category": "Dairy",
+      "name": "Fresh Goat Milk",
+      "description": "Pure and nutritious fresh goat milk, perfect for a healthy lifestyle.",
+      "price": 3.49,
+      "weight": "1L",
+      "image": "/images/milk2.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Vegetables",
+      "name": "Carrot",
+      "description": "Fresh, crunchy carrots straight from the farm.",
+      "price": 1.99,
+      "weight": "1kg",
+      "image": "/images/carrot-head.png"
+    },
+    {
+      "id": 4,
+      "category": "Vegetables",
+      "name": "Tomatoes",
+      "description": "Juicy and ripe tomatoes, perfect for cooking and salads.",
+      "price": 2.49,
+      "weight": "1kg",
+      "image": "/images/tomatoes2.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Vegetables",
+      "name": "Cucumber",
+      "description": "Crisp and refreshing cucumbers, ideal for salads and snacking.",
+      "price": 1.89,
+      "weight": "1kg",
+      "image": "/images/cucumber.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Cereals",
+      "name": "White Rice",
+      "description": "High-quality white rice, perfect for any dish.",
+      "price": 1.89,
+      "weight": "1kg",
+      "image": "/images/ghana local white rice.jpg"
+    },
+    {
+      "id": 7,
+      "category": "Cereals",
+      "name": "Brown Rice",
+      "description": "Nutritious brown rice, perfect for healthy meals.",
+      "price": 2.49,
+      "weight": "1kg",
+      "image": "/images/brown rice.jpg"
+    },
+    {
+      "id": 8,
+      "category": "Fruits",
+      "name": "Orange",
+      "description": "Fresh and tangy oranges, packed with vitamin C.",
+      "price": 1.99,
+      "weight": "1kg",
+      "image": "/images/orange.jpg"
+    },
+    {
+      "id": 9,
+      "category": "Fruits",
+      "name": "Banana",
+      "description": "Sweet and ripe bananas, perfect for snacking and smoothies.",
+      "price": 1.49,
+      "weight": "1kg",
+      "image": "/images/banana2.jpg"
+    },
+    {
+      "id": 10,
+      "category": "Fruits",
+      "name": "Watermelon",
+      "description": "Juicy and refreshing watermelons, ideal for hot days.",
+      "price": 3.99,
+      "weight": "whole",
+      "image": "/images/WATERMELON.jpg"
+    },
+    {
+      "id": 11,
+      "category": "Green Leaves",
+      "name": "Spinach",
+      "description": "Fresh, tender spinach leaves, perfect for soups and salads.",
+      "price": 1.49,
+      "weight": "1 bunch",
+      "image": "/images/spinach2.jpg"
+    },
+    {
+      "id": 12,
+      "category": "Green Leaves",
+      "name": "Lettuce",
+      "description": "Crisp and refreshing lettuce leaves for salads.",
+      "price": 1.99,
+      "weight": "1 bunch",
+      "image": "/images/lettuce.jpg"
+    },
+    
+    {
+      "id": 13,
+      "category": "Tuber Foods",
+      "name": "Yam",
+      "description": "Fresh and hearty yams, perfect for boiling or frying.",
+      "price": 3.49,
+      "weight": "1kg",
+      "image": "/images/Yam.jpg"
+    },
+    {
+      "id": 14,
+      "category": "Tuber Foods",
+      "name": "Sweet Potatoes",
+      "description": "Sweet and nutritious, perfect for roasting or mashing.",
+      "price": 2.99,
+      "weight": "1kg",
+      "image": "/images/sweet potatoes.jpg"
+    },
+    {
+      "id": 15,
+      "category": "Species",
+      "name": "Pepper",
+      "description": "Spicy and flavorful peppers, ideal for cooking.",
+      "price": 1.29,
+      "weight": "500g",
+      "image": "/images/pepper2.jpg"
+    },
+    {
+      "id": 16,
+      "category": "Species",
+      "name": "Garlic",
+      "description": "Aromatic garlic cloves, perfect for enhancing flavors.",
+      "price": 0.99,
+      "weight": "100g",
+      "image": "/images/garlic.jpg"
+    },
+    {
+      "id": 17,
+      "category": "Tea Leaves",
+      "name": "Sobolo (Hibiscus)",
+      "description": "Dried hibiscus leaves for a refreshing tea.",
+      "price": 2.49,
+      "weight": "200g",
+      "image": "/images/sobolo leaves.jpg"
+    },
+    {
+      "id": 18,
+      "category": "Tea Leaves",
+      "name": "Moringa Leaves",
+      "description": "Nutritious dried moringa leaves for a healthy tea.",
+      "price": 3.29,
+      "weight": "200g",
+      "image": "/images/Moringa leaves2.jpg"
+    },
+    {
+      "id": 19,
+      "category": "Cereals",
+      "name": "Millet",
+      "description": "Nutritious millet grains for versatile cooking.",
+      "price": 2.79,
+      "weight": "1kg",
+      "image": "/images/millet.jpg"
+    },
+    {
+      "id": 20,
+      "category": "Fruits",
+      "name": "Pineapple",
+      "description": "Sweet and juicy pineapples, freshly picked.",
+      "price": 2.99,
+      "weight": "whole",
+      "image": "/images/pineapple2.png"
+    }
+  ]
+  
